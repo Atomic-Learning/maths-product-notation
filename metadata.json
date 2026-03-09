@@ -1,0 +1,18 @@
+{
+    "title": "Mathematics: Product Notation",
+    "slug": "maths-product-notation",
+    "description": "Understand product notation using the capital pi symbol, including index bounds and how to expand compact products.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "maths-function-notation"
+    ],
+    "related": [
+        "maths-factorial"
+    ]
+}
